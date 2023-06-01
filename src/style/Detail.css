@@ -1,0 +1,18 @@
+.Movie-rate {
+  text-align: start;
+  color: yellow;
+  text-decoration: underline;
+}
+
+body {
+  background: white;
+}
+
+.Movie-genres {
+  text-align: start;
+}
+
+.Icon-star {
+  margin-right: 5px;
+  margin-bottom: 4px;
+}
